@@ -1,4 +1,3 @@
-taskdb
-======
+== Task API ===
 
-Task API  database for todo app
+This is a task database API
